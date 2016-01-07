@@ -1,0 +1,1 @@
+This library serves as the middle man between the rendering API and your application. This way you can easily change rendering and windowing systems without having to change you code (eg. OpenGL, DirectX, SDL, WinGDI...)
